@@ -12,7 +12,11 @@ public class Array1 {
             System.out.print(arr1[i] + " ");
         }
 
-
-
     }
+
+    public boolean isExist(){
+        return true;
+    }
+
+
 }
