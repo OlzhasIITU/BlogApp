@@ -4,43 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array/Array_theory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix_theory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Begin/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/If_Else/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Add_Two_Numbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+    <list default="true" id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="Changes Array1, fixed problems">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,48 +31,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Array.Main.executor": "Run",
-    "Application.Array1.executor": "Run",
-    "Application.Boolean10.executor": "Run",
-    "Application.Boolean11.executor": "Run",
-    "Application.Boolean12.executor": "Run",
-    "Application.Boolean13.executor": "Run",
-    "Application.Boolean14.executor": "Run",
-    "Application.Boolean15.executor": "Run",
-    "Application.Boolean16.executor": "Run",
-    "Application.Boolean17.executor": "Run",
-    "Application.Boolean4.executor": "Run",
-    "Application.Boolean5.executor": "Run",
-    "Application.Boolean6.executor": "Run",
-    "Application.Boolean7.executor": "Run",
-    "Application.Boolean8.executor": "Run",
-    "Application.Boolean9.executor": "Run",
-    "Application.Cycle1.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Matrix1.executor": "Run",
-    "Application.Matrix2.executor": "Run",
-    "Application.Matrix_theory.executor": "Run",
-    "Application.Practice2.executor": "Run",
-    "Application.Practice3.executor": "Run",
-    "Application.Solution1.executor": "Run",
-    "Application.Solution2.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/diasd/IdeaProjects/JavaBasics",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Array.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Boolean9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cycle1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix_theory.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Solution2.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/diasd/IdeaProjects/JavaBasics&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Boolean" />
@@ -183,7 +149,6 @@
       <list>
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LeetCode.Add_Two_Numbers.Solution" />
-        <item itemvalue="Application.Solution1" />
         <item itemvalue="Application.Cycle1" />
         <item itemvalue="Application.Matrix2" />
       </list>
@@ -217,10 +182,25 @@
       <workItem from="1768232518639" duration="8006000" />
       <workItem from="1768890226654" duration="153000" />
       <workItem from="1769073356337" duration="1879000" />
+      <workItem from="1771995285939" duration="1063000" />
+      <workItem from="1772012139847" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes Array1, fixed problems">
+      <option name="closed" value="true" />
+      <created>1771996283604</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1771996283604</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes Array1, fixed problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes Array1, fixed problems" />
   </component>
 </project>
