@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array/Array_theory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array2/Matrix_theory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Begin/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Boolean/Boolean9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/For_While/Cycle3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/If_Else/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Add_Two_Numbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37hjP3yhlfPpUmUEfxOPqy6xPn5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.Main.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Boolean10.executor": "Run",
+    "Application.Boolean11.executor": "Run",
+    "Application.Boolean12.executor": "Run",
+    "Application.Boolean13.executor": "Run",
+    "Application.Boolean14.executor": "Run",
+    "Application.Boolean15.executor": "Run",
+    "Application.Boolean16.executor": "Run",
+    "Application.Boolean17.executor": "Run",
+    "Application.Boolean4.executor": "Run",
+    "Application.Boolean5.executor": "Run",
+    "Application.Boolean6.executor": "Run",
+    "Application.Boolean7.executor": "Run",
+    "Application.Boolean8.executor": "Run",
+    "Application.Boolean9.executor": "Run",
+    "Application.Cycle1.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matrix1.executor": "Run",
+    "Application.Matrix2.executor": "Run",
+    "Application.Matrix_theory.executor": "Run",
+    "Application.Practice2.executor": "Run",
+    "Application.Practice3.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/diasd/IdeaProjects/JavaBasics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Boolean" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Cycle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_While.Cycle1" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="For_While.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeetCode.Add_Two_Numbers.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Add_Two_Numbers.Solution" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Palindrome_numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Begin.Main" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Begin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Matrix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array2.Matrix2" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Array2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LeetCode.Palindrome_numbers.Solution" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LeetCode.Palindrome_numbers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LeetCode.Add_Two_Numbers.Solution" />
+        <item itemvalue="Application.Solution1" />
+        <item itemvalue="Application.Cycle1" />
+        <item itemvalue="Application.Matrix2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.300" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.300" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="" />
+      <created>1767362169849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767362169849</updated>
+      <workItem from="1767362170972" duration="111000" />
+      <workItem from="1767790147113" duration="8191000" />
+      <workItem from="1767808218433" duration="2475000" />
+      <workItem from="1767869528604" duration="3378000" />
+      <workItem from="1767888652338" duration="10000" />
+      <workItem from="1767892890364" duration="2000" />
+      <workItem from="1767940030592" duration="179000" />
+      <workItem from="1768061990401" duration="286000" />
+      <workItem from="1768066502248" duration="140000" />
+      <workItem from="1768232518639" duration="8006000" />
+      <workItem from="1768890226654" duration="153000" />
+      <workItem from="1769073356337" duration="1879000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
