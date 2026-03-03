@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="Changes Array1, fixed problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/For_While/Cycle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/For_While/Cycle2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/For_While/Cycle3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/For_While/Cycle3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +35,9 @@
     &quot;accountId&quot;: &quot;71c12c48-1941-4cd8-b1c4-5463f101ea4f&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -45,56 +47,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Array.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean10.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean12.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean14.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean15.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean16.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean17.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean4.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean5.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean6.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean7.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean8.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Boolean9.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cycle1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Cycle2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Matrix_theory.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice3.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Solution2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/diasd/IdeaProjects/JavaBasics&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Array.Main.executor": "Run",
+    "Application.Array1.executor": "Run",
+    "Application.Boolean10.executor": "Run",
+    "Application.Boolean11.executor": "Run",
+    "Application.Boolean12.executor": "Run",
+    "Application.Boolean13.executor": "Run",
+    "Application.Boolean14.executor": "Run",
+    "Application.Boolean15.executor": "Run",
+    "Application.Boolean16.executor": "Run",
+    "Application.Boolean17.executor": "Run",
+    "Application.Boolean4.executor": "Run",
+    "Application.Boolean5.executor": "Run",
+    "Application.Boolean6.executor": "Run",
+    "Application.Boolean7.executor": "Run",
+    "Application.Boolean8.executor": "Run",
+    "Application.Boolean9.executor": "Run",
+    "Application.Cycle1.executor": "Run",
+    "Application.Cycle2.executor": "Run",
+    "Application.Cycle3.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Matrix1.executor": "Run",
+    "Application.Matrix2.executor": "Run",
+    "Application.Matrix_theory.executor": "Run",
+    "Application.Practice2.executor": "Run",
+    "Application.Practice3.executor": "Run",
+    "Application.Solution1.executor": "Run",
+    "Application.Solution2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/diasd/IdeaProjects/JavaBasics",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Boolean" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Cycle2">
+  <component name="RunManager" selected="Application.Cycle3">
     <configuration name="Cycle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_While.Cycle1" />
       <module name="JavaBasics" />
@@ -110,6 +113,19 @@
     </configuration>
     <configuration name="Cycle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_While.Cycle2" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="For_While.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_While.Cycle3" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -147,26 +163,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Matrix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array2.Matrix2" />
-      <module name="JavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Array2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cycle3" />
         <item itemvalue="Application.Cycle2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LeetCode.Add_Two_Numbers.Solution" />
         <item itemvalue="Application.Cycle1" />
-        <item itemvalue="Application.Matrix2" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +206,7 @@
       <workItem from="1772015015377" duration="390000" />
       <workItem from="1772503552328" duration="83000" />
       <workItem from="1772523001613" duration="647000" />
-      <workItem from="1772524368284" duration="431000" />
+      <workItem from="1772524368284" duration="2063000" />
     </task>
     <task id="LOCAL-00001" summary="Changes Array1, fixed problems">
       <option name="closed" value="true" />
@@ -221,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1772015151063</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Changes Array1, fixed problems">
+      <option name="closed" value="true" />
+      <created>1772525058201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772525058203</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
