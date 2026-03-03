@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b586b02a-ecad-4d98-ad34-1f30d7e949bf" name="Changes" comment="Changes Array1, fixed problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/Array1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/Array1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/For_While/Cycle2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/For_While/Cycle2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OlzhasIITU&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OlzhasIITU/BlogApp.git&quot;,
+    &quot;accountId&quot;: &quot;71c12c48-1941-4cd8-b1c4-5463f101ea4f&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -50,6 +64,7 @@
     &quot;Application.Boolean8.executor&quot;: &quot;Run&quot;,
     &quot;Application.Boolean9.executor&quot;: &quot;Run&quot;,
     &quot;Application.Cycle1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Cycle2.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Matrix1.executor&quot;: &quot;Run&quot;,
     &quot;Application.Matrix2.executor&quot;: &quot;Run&quot;,
@@ -79,9 +94,22 @@
       <recent name="Boolean" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Cycle2">
     <configuration name="Cycle1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="For_While.Cycle1" />
+      <module name="JavaBasics" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="For_While.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cycle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_While.Cycle2" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
@@ -132,21 +160,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LeetCode.Palindrome_numbers.Solution" />
-      <module name="JavaBasics" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LeetCode.Palindrome_numbers.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Cycle2" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LeetCode.Add_Two_Numbers.Solution" />
         <item itemvalue="Application.Cycle1" />
@@ -184,6 +200,10 @@
       <workItem from="1769073356337" duration="1879000" />
       <workItem from="1771995285939" duration="1063000" />
       <workItem from="1772012139847" duration="9000" />
+      <workItem from="1772015015377" duration="390000" />
+      <workItem from="1772503552328" duration="83000" />
+      <workItem from="1772523001613" duration="647000" />
+      <workItem from="1772524368284" duration="431000" />
     </task>
     <task id="LOCAL-00001" summary="Changes Array1, fixed problems">
       <option name="closed" value="true" />
@@ -193,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771996283604</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Changes Array1, fixed problems">
+      <option name="closed" value="true" />
+      <created>1772015151063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772015151063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

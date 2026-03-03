@@ -1,4 +1,5 @@
 package Array;
+
 // статичный массив
 public class Array1 {
     public static void main(String[] args) {
@@ -12,9 +13,14 @@ public class Array1 {
             System.out.print(arr1[i] + " ");
         }
 
+        for (int i = 0; i < arr1.length; i++) {
+            System.out.println(arr1[i] + " ");
+        }
+
+
     }
 
-    public boolean isExist(){
+    public boolean isExist() {
         return true;
     }
 
